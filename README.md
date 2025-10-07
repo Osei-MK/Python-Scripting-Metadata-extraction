@@ -1,2 +1,2 @@
-# Python-Scripting-Metadata-extraction
+# Python-Scripting
 mem.raw
